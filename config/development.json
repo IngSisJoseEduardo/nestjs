@@ -1,0 +1,13 @@
+{
+  "customer":{
+    "db":{
+      "host":"localhost",
+      "username": "postgres",
+      "password": 123456789,
+      "synchronize": true
+    },
+    "jwt":{
+      "secret": "topSecret51"
+    }
+  }
+}
